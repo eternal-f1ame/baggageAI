@@ -1,8 +1,6 @@
 import numpy as np
 import cv2
-from pyparsing import alphanums
 from scipy.ndimage import rotate
-import matplotlib.pyplot as plt
 import os
 
 bg_dir = "background_images"
