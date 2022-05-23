@@ -22,4 +22,4 @@ pip install numpy opencv-python scipy
 ```
 python3 submission.py
 ```
-* the superimposed images as desired by the assignment guidelines can be found in ```submission_dir```.
+* the superimposed images as desired by the assignment guidelines can be found in ```< path >/baggageAI/submission_dir```.
